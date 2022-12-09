@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #242943;
+		background: #94224a;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -252,7 +252,7 @@ input, select, textarea {
 	}
 
 	code {
-		background: rgba(212, 212, 255, 0.035);
+		background: rgba(240, 240, 242, 0.035);
 		font-family: "Courier New", monospace;
 		font-size: 0.9em;
 		margin: 0 0.25em;
@@ -1957,7 +1957,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #242943;
+			background: #2c2a69;
 		}
 
 		select:focus::-ms-value {
