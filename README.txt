@@ -1,9 +1,8 @@
 Hi, I am Dushyant Wadhankar.
-This is a website to showcase my Portfolio Projects.
+This is a website to showcase my Portfolio Projects, demonstrating my proficiency in:
+  1. Programming Languages: SQL, Python, R.
+  2. Visualisation Tools: Tableau
+  3. Database: MySQL, Microsoft SQL Server.
 
 
-Licence:
-
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+(html5up.net/license)
