@@ -1,16 +1,5 @@
+Hi, I am Dushyant Wadhankar.
 This is a website to showcase my Portfolio Projects.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Licence:
